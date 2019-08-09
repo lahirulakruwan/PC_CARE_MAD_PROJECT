@@ -2,8 +2,8 @@
 <resources>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#F23B5F</color>
     <color name = "colorbuttontext">#540e33</color>
     <color name="custitlecolor">#ffffff</color>
     <color name="backgroundcolor">#172a54</color>
+
 </resources>

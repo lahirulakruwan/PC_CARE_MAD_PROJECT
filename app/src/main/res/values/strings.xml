@@ -47,4 +47,48 @@
     <string name="availability_hint">Availability</string>
     <string name="qty">Qty :</string>
 
+
+
+
+
+    <string name="Employee">Employee</string>
+    <string name="EmpName">Name</string>
+    <string name="EmpAge">Age</string>
+    <string name="EmpPhone">Phone</string>
+    <string name="EmpEmail">Email</string>
+    <string name="EmpEmailLogin">employee@gmail.com</string>
+    <string name="LoginBtn">LOGIN</string>
+    <string name="submit">SUBMIT</string>
+    <string name="empPassword">......................</string>
+    <string name="ForgotPwd">Forgot Password?</string>
+    <string name="ForgotPawd">Forgot Password</string>
+    <string name="Reset">RESET</string>
+    <string name="EmpSalary">Salary</string>
+    <string name="Empbtn1">SAVE RECORDS</string>
+    <string name="Empbtn2">VIEW RECORDES</string>
+    <string name="SgnUporLogin">Sign In </string>
+    <string name="SgninOption">----------------SignIn Using----------------</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="signup">SIGNUP</string>
+    <string name="emailAgain">Enter your email here</string>
+    <string name="resetPassword">Reset password here</string>
+    <string name="uptdEmployee">Employee</string>
+    <string name="updtEmpName">Name</string>
+    <string name="updtEmpAge">Age</string>
+    <string name="updtEmpPhone">Phone</string>
+    <string name="updtEmpEmail">Email</string>
+    <string name="updtEmpSalary">Salary</string>
+    <string name="updateBtn">UPDATE</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
