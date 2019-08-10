@@ -5,5 +5,5 @@
     <color name = "colorbuttontext">#540e33</color>
     <color name="custitlecolor">#ffffff</color>
     <color name="backgroundcolor">#172a54</color>
-
+    <color name="customerrowtxtcolor">#010101</color>
 </resources>

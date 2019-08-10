@@ -8,7 +8,7 @@
     tools:context=".Customers_View_Records">
 
     <ListView
-        android:id="@+id/cutomerlistview"
+        android:id="@+id/supplierlistview"
         android:layout_width="379dp"
         android:layout_height="639dp"
         android:layout_alignParentEnd="true"
