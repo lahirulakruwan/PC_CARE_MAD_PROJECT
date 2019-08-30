@@ -21,7 +21,8 @@
         <activity android:name=".Update_Customer_Det" />
         <activity android:name=".Customer_Add_Details" >
         </activity>
-        <activity android:name=".Update_Supplier_Details" />
+        <activity android:name=".Update_Supplier_Details" >
+        </activity>
         <activity android:name=".Supplier_Add_Details" />
         <activity android:name=".Dashboard">
             <intent-filter>
@@ -30,10 +31,12 @@
             </intent-filter>
         </activity>
         <activity android:name=".LoginOrRestPassword" >
+
         </activity>
         <activity android:name=".ProgressChart">
         </activity>
-        <activity android:name=".AppSplashScreen"></activity>
+        <activity android:name=".AppSplashScreen">
+        </activity>
         <activity android:name=".Update_Employee"></activity>
         <activity android:name=".EmployeeList"></activity>
         <activity android:name=".Employee" >

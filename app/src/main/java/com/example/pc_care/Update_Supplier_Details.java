@@ -20,11 +20,11 @@ public class Update_Supplier_Details extends AppCompatActivity {
 
 
         updatebtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
+                    @Override
+                    public void onClick(View view) {
 
-                Animation addanimation = AnimationUtils.loadAnimation(Update_Supplier_Details.this,R.anim.bounce);
-                updatebtn.startAnimation(addanimation);
+                        Animation addanimation = AnimationUtils.loadAnimation(Update_Supplier_Details.this,R.anim.bounce);
+                        updatebtn.startAnimation(addanimation);
 
             }
         });
