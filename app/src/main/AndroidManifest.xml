@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".meTestCrop" />
+
         <activity android:name=".Supplier_View_Records" />
         <activity android:name=".Push_item" />
         <activity android:name=".Pull_item" />
@@ -29,18 +29,7 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
-        </activity>
-          <activity
-            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
-            android:theme="@style/Base.Theme.AppCompat" />
-        <activity android:name=".LoginOrRestPassword" />
-        <activity android:name=".ProgressChart" />
-        <activity android:name=".AppSplashScreen">
-
-
-        </activity>
-        <activity android:name=".Update_Employee" />
+r
         <activity
             android:name=".EmployeeList"
             android:parentActivityName=".Employee" />
