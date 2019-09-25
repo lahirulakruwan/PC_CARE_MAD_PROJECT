@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.Window;
 import android.view.WindowManager;
 
+import java.util.Objects;
+
 public class AppSplashScreen extends AppCompatActivity {
 
     private int SLEEP_TIMER = 3;
@@ -20,7 +22,7 @@ public class AppSplashScreen extends AppCompatActivity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
         setContentView(R.layout.activity_app_splash_screen);
-        getSupportActionBar().hide();
+        //Objects.requireNonNull(getSupportActionBar()).hide();
         LogoLauncher logoLauncher = new LogoLauncher();
         logoLauncher.start();
     }

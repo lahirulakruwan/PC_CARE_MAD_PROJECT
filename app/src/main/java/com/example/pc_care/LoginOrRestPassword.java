@@ -8,6 +8,12 @@ import androidx.fragment.app.FragmentTransaction;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.Toast;
+
+import Database_company.DatabaseHelper;
+import Database_company.DatabseHelper2;
 
 public class LoginOrRestPassword extends AppCompatActivity {
 
@@ -15,9 +21,8 @@ public class LoginOrRestPassword extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login_or_rest_password);
-
-
     }
+
     public void changeFragment(View view) {
         Fragment fragment;
         if (view == findViewById(R.id.btnFragment1)) {
