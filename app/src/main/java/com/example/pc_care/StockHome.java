@@ -18,7 +18,7 @@ public class StockHome extends AppCompatActivity {
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(),MotherbordList.class);
+                Intent intent = new Intent(getApplicationContext(),Stock_M_add.class);
                 startActivity(intent);
             }
         });
