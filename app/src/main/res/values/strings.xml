@@ -24,7 +24,6 @@
     <string name="supphone">Phone No</string>
 
 
-
     <string name="stock_header">Stock</string>
     <string name="list_layout_edit_btn">Edit</string>
     <string name="list_layout_pull_btn">Pull</string>
@@ -49,7 +48,7 @@
     <string name="model_hint">Model</string>
     <string name="availability_hint">Availability</string>
     <string name="qty">Qty :</string>
-
+    <string name="username_already_exists">Username already exists</string>
 
     <string name="Employee">Employee</string>
     <string name="EmpName">Name</string>

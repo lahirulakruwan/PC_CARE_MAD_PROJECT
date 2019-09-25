@@ -37,60 +37,59 @@
             <TableRow>
 
                 <TextView
+                    android:id="@+id/editName"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:text="@string/EmpName"
                     android:textColor="#000"
-                    android:textSize="20sp"
+                    android:textSize="10sp"
                     android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/txtName"
                     android:layout_width="88dp"
                     android:layout_height="match_parent"
-                    android:text="Name Here"
                     android:textColor="#000"
-                    android:textSize="20sp"
+                    android:textSize="10sp"
                     />
             </TableRow>
         <TableRow>
 
             <TextView
+                android:id="@+id/editAge"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:text="@string/EmpAge"
                 android:textColor="#000"
-                android:textSize="20sp"
+                android:textSize="10sp"
                 android:textStyle="bold" />
 
-                <TextView
-                    android:id="@+id/txtAge"
-                    android:layout_width="88dp"
-                    android:layout_height="match_parent"
-                    android:text="Age Here"
-                    android:textColor="#000"
-                    android:textSize="20sp"
-                     />
+            <TextView
+                android:id="@+id/txtAge"
+                android:layout_width="94dp"
+                android:layout_height="match_parent"
+                android:textColor="#000"
+                android:textSize="10sp" />
 
 
             </TableRow>
             <TableRow>
 
                 <TextView
+                    android:id="@+id/editPhone"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:text="@string/EmpPhone"
                     android:textColor="#000"
-                    android:textSize="20sp"
+                    android:textSize="10sp"
                     android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/txtPhone"
                     android:layout_width="88dp"
                     android:layout_height="match_parent"
-                    android:text="Phone Here"
                     android:textColor="#000"
-                    android:textSize="20sp"
+                    android:textSize="10sp"
                     />
 
 
@@ -98,20 +97,21 @@
             <TableRow>
 
                 <TextView
+                    android:id="@+id/editEmail"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:text="@string/EmpEmail"
                     android:textColor="#000"
-                    android:textSize="20sp"
+                    android:textSize="10sp"
                     android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/txtEmail"
                     android:layout_width="88dp"
                     android:layout_height="match_parent"
-                    android:text="Email Here"
+
                     android:textColor="#000"
-                    android:textSize="20sp"
+                    android:textSize="10sp"
                     />
 
 
@@ -119,20 +119,21 @@
             <TableRow>
 
                 <TextView
+                    android:id="@+id/editSalary"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/EmpSalary"
                     android:textColor="#000"
-                    android:textSize="20sp"
+                    android:textSize="10sp"
                     android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/txtSalary"
                     android:layout_width="88dp"
                     android:layout_height="match_parent"
-                    android:text="Salary Here"
+
                     android:textColor="#000"
-                    android:textSize="20sp"
+                    android:textSize="10sp"
                     />
 
 
